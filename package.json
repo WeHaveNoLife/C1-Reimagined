@@ -16,6 +16,7 @@
     "webpack": "^1.13.1"
   },
   "dependencies": {
+    "q": "^1.4.1",
     "request-promise": "^3.0.0"
   }
 }
